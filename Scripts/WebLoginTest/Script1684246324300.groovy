@@ -28,7 +28,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/WebLogin/Page_eatOS POS
 
 WebUI.click(findTestObject('Object Repository/WebLogin/Page_eatOS POS Inc/button_Log In'))
 
-WebUI.verifyElementPresent(findTestObject('Page_eatOS POS Inc/h5_Home'), 5)
+WebUI.verifyElementPresent(findTestObject('Page_eatOS POS Inc/h5_Home'), 10)
 
 WebUI.closeBrowser()
 

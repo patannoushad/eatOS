@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h5_Home</name>
+   <tag></tag>
+   <elementGuidId>e6846109-5b8e-4581-a2b5-64fb53829959</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-wrapper']/div/div/app-page-title/div/div/h5</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h5.fw-700.font-size-14.text-capitalize</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>983d3432-34f5-46c8-8767-52a023a3b615</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fw-700 font-size-14 text-capitalize</value>
+      <webElementGuid>618173ed-5be2-4fdb-9de6-55ad3a3a7027</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Home </value>
+      <webElementGuid>ccc53cbb-bd43-4e01-80a0-5c7c5a74b4e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-wrapper&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;page-content ps-relative&quot;]/app-page-title[1]/div[@class=&quot;d-flex justify-content-between welcome-note ng-star-inserted&quot;]/div[1]/h5[@class=&quot;fw-700 font-size-14 text-capitalize&quot;]</value>
+      <webElementGuid>d108204a-5020-4de6-969d-082d46ae1382</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-wrapper']/div/div/app-page-title/div/div/h5</value>
+      <webElementGuid>0e441238-3538-416a-8642-18c3c9c39c2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chat with us'])[1]/following::h5[1]</value>
+      <webElementGuid>b2e262ce-f326-414c-a8c9-b345c51fd31f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect with eatOS'])[1]/following::h5[1]</value>
+      <webElementGuid>985bf808-855f-4eb1-9fcc-2cc1c4c75796</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Net Sales'])[1]/preceding::h5[1]</value>
+      <webElementGuid>73e49c38-c701-4715-9449-1d98f54f17fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h5</value>
+      <webElementGuid>8e3cd11f-5a80-4971-b751-29fd0be7a019</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = ' Home ' or . = ' Home ')]</value>
+      <webElementGuid>458f279f-5926-4788-8b5b-fe27c61306ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

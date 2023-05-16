@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Log In</name>
+   <tag></tag>
+   <elementGuidId>613790ff-bf92-40c6-8432-dc20ee37431c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.sec-btn.font-size-18.fw-700.text-black.ng-star-inserted.logsuccess</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ad87ae33-5c06-46f9-96e8-bb0abea5e1c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>40625ba8-d095-47ef-acd2-77ec5d43a6c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sec-btn font-size-18 fw-700 text-black ng-star-inserted logsuccess</value>
+      <webElementGuid>e498429e-a286-41ad-8263-8dab54c1eef4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log In</value>
+      <webElementGuid>d5806345-f010-412e-8bc5-1ac019219423</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;remove-overflow&quot;]/app-root[1]/app-login[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;login_main&quot;]/div[1]/div[@class=&quot;d-flex w-100 overflow-hidden bg-white&quot;]/div[@class=&quot;login-form-sec align-self-center loginformscroll&quot;]/div[@class=&quot;login-right pt-5 my-md-4&quot;]/div[1]/form[@class=&quot;form-horizontal ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;mt-3 d-grid&quot;]/button[@class=&quot;sec-btn font-size-18 fw-700 text-black ng-star-inserted logsuccess&quot;]</value>
+      <webElementGuid>697b01e7-06d8-43a0-be18-bfbafd560cf2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>956b32f5-bcf0-4b88-9415-4a96677b2fad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password ?'])[1]/following::button[1]</value>
+      <webElementGuid>b3d29922-e0ba-4d79-9d3c-e029288f832e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember me'])[1]/following::button[1]</value>
+      <webElementGuid>bea85acb-9544-494d-8e04-4d1b665136bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create a New Account'])[1]/preceding::button[1]</value>
+      <webElementGuid>a80d41b5-30b4-411f-adde-2666bfed68e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log In']/parent::*</value>
+      <webElementGuid>241b6005-f16f-4097-be7c-285dc72775b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>fc82e14f-1549-41d8-a9ca-044028757046</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Log In' or . = 'Log In')]</value>
+      <webElementGuid>942082fe-b329-46af-8bfe-dd60e7de0e78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

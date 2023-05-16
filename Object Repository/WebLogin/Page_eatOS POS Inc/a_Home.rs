@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Home</name>
+   <tag></tag>
+   <elementGuidId>c64e057f-7a86-4ac7-9f31-a17e6568ca4e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-wrapper']/div/div/app-page-title/div/div/h5/span/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.text-black.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bcc36e4c-d117-4ad4-a8dc-666acb77e36e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-black ng-star-inserted</value>
+      <webElementGuid>c9437625-484f-4276-b14c-4da034ffdd7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Home </value>
+      <webElementGuid>4218e9d7-0201-4854-8689-cfa74f197afb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-wrapper&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;page-content ps-relative&quot;]/app-page-title[1]/div[@class=&quot;d-flex justify-content-between welcome-note ng-star-inserted&quot;]/div[1]/h5[@class=&quot;fw-700 font-size-14 text-capitalize&quot;]/span[@class=&quot;ts ng-star-inserted&quot;]/a[@class=&quot;text-black ng-star-inserted&quot;]</value>
+      <webElementGuid>5a47f4de-3976-4fe6-8c92-88a7c3c49c02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-wrapper']/div/div/app-page-title/div/div/h5/span/a</value>
+      <webElementGuid>a117cbe3-4b84-473b-a78b-9c5552261c93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Home')]</value>
+      <webElementGuid>3ea59846-016d-4474-bcc1-8897c58d3e4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chat with us'])[1]/following::a[1]</value>
+      <webElementGuid>6ae9607e-1796-4c01-9b75-daefeaafbb9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect with eatOS'])[1]/following::a[2]</value>
+      <webElementGuid>1c6b8e9d-7dd1-48c9-9689-29b6eb3097c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Net Sales'])[1]/preceding::a[1]</value>
+      <webElementGuid>161fbfe7-fc3c-4c7b-a59b-24cd944240c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>ab0e321a-5200-45b6-93bd-ce950b571d52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = ' Home ' or . = ' Home ')]</value>
+      <webElementGuid>9592b556-0d6d-4673-aaff-82f83fefb82b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
